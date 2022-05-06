@@ -19,24 +19,24 @@ There should be one meme shown at a time, and when a button is pressed the previ
 ![alt text](images/t.jpg)
 
 ## Shown how your team planned and executed the project
-![alt text](./images/plan.jpg)
+![alt text](/images/plan.jpg)
 
 ## Interaction protocol used
 For this assignment, we were tasked to use a networking communication tool. Our project uses serial communication. In the Arduino code, each keypad entry prints ASCII Art, which is then transmitted online into P5 using p5 Serial control that creates a serial server between arduino and p5.js  Additionally, we hosted the html website, which is the user interface of our project on github. Our goal was to eventually host 
 two transmission lines to send and receive data, and that data is continuously sent and received one bit at a time.
-
+![alt text](/images/protocols.jpg)
 
 ## honest Design (use of technology in a meaningful way, in relation to the topics)
 Our interpretation in making honest design decisions, was at first, using obsolescence tech instead of making or fabricating new artifacts. We were beginning to understand the obstacles, opportunities and 
 ![alt text](./images/5.jpg)
-
+![alt text](./images/u.jpg)
 
 ## Creative Materials Used:
 1. Gelatine powder 
 2. Glycerin Soap
 3. Wanted to “hack” keyboard instead of a keypad 
-![alt text](./images/f.jpg)
-![alt text](./images/2.jpg)
+![alt text](./images/b.jpg)
+![alt text](./images/1.jpg)
 
 ##  Creative Technologies used:
 1. ASCII ART for memes
