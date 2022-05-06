@@ -1,12 +1,12 @@
 # Fab-Challenge-3 Meme Pad
-![alt text](/Images/meme.jpg)
+![alt text](/images/333.jpg)
 
 ##  Explain how it is linked to your research areas
 THe goal of the third  Fabrication challenge was to make an ethical tool that allows us to interact with others. In terms of our research ideas and interests Busisiwe is interested in topics of AR, VR and alternative media,Accessibility in interactive technologies, intersections between human made and AI made artistic expressions in the virtual and also connections between the digital and physical landscapes. Andrea’s area of interests and research lies in material culture, trash landscapes, ethics behind the machine and tech, interface technologies and narratives behind the objects we use. In this we thought, how can we “hack” everyday objects, and modify them into props that question the current computer and mobile applications we used that are made by big tech. We aimed to explore how we can use protocols instead of services, calling to agency, and awareness to our current interfaces and ways of communicating.
 
 ## Initial idea / Concept of the Project ( What questions need to be answered?)
 Our current ecosystems and networks of communication are mostly hosted on the services of big tech companies, where they use the patterns and habits online for their own interests and profits. At the same time, content making culture of the web2.0, has ushered in a new internet presence and culture where non-text communication is used and micro subgenres and aesthetics.  such as meme culture and emojis.
-![alt text](/Images/r.jpg)
+
 Keeping this in mind, our idea was to explore new means of interaction culture. Revisit nostalgic internet imagaries and appropriating them into a new interface, where the keypad artefact is used a tool for storytelling and expression within the imbedded meanings of meme culture. Our inspirations are from everyday objects, the nostalgic vaporwave movement, discord chatrooms and the beginnings of communication in web 1.0 - the birth era of ASCII Art.
 
 
@@ -14,12 +14,12 @@ Keeping this in mind, our idea was to explore new means of interaction culture. 
 
 The purpose of the meme pad is to press the keycaps, that have meme symbols, where a corresponding meme will be printed in the user interface. Each button should print a different meme. 
 There should be one meme shown at a time, and when a button is pressed the previous output should be erased.
-![alt text](./Images/ 8.jpg)
-
-
+![alt text](images/6.jpg)
+![alt text](images/7.jpg)
+![alt text](images/t.jpg)
 
 ## Shown how your team planned and executed the project
-![alt text](./Images/plan.jpg)
+![alt text](./images/plan.jpg)
 
 ## Interaction protocol used
 For this assignment, we were tasked to use a networking communication tool. Our project uses serial communication. In the Arduino code, each keypad entry prints ASCII Art, which is then transmitted online into P5 using p5 Serial control that creates a serial server between arduino and p5.js  Additionally, we hosted the html website, which is the user interface of our project on github. Our goal was to eventually host 
