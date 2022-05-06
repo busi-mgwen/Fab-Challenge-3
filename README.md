@@ -15,8 +15,9 @@ Keeping this in mind, our idea was to explore new means of interaction culture. 
 The purpose of the meme pad is to press the keycaps, that have meme symbols, where a corresponding meme will be printed in the user interface. Each button should print a different meme. 
 There should be one meme shown at a time, and when a button is pressed the previous output should be erased.
 ![alt text](/images/6.jpg)
-![alt text](/images/7.jpeg)
 ![alt text](/images/t.jpeg)
+![alt text](/images/7.jpeg)
+
 
 ## Shown how your team planned and executed the project
 ![alt text](/images/plan.JPG)
@@ -26,7 +27,7 @@ For this assignment, we were tasked to use a networking communication tool. Our 
 two transmission lines to send and receive data, and that data is continuously sent and received one bit at a time.
 ![alt text](/images/protocols.JPG)
 
-## honest Design (use of technology in a meaningful way, in relation to the topics)
+## Honest design (use of technology in a meaningful way, in relation to the topics)
 Our interpretation in making honest design decisions, was at first, using obsolescence tech instead of making or fabricating new artifacts. We were beginning to understand the obstacles, opportunities and 
 ![alt text](/images/5.jpg)
 ![alt text](/images/u.jpg)
@@ -42,7 +43,7 @@ Our interpretation in making honest design decisions, was at first, using obsole
 1. ASCII ART for memes
 2. Exploring with emulating keyboards using P5.Js and javascript
 3. Making our own website to host the interface
-
+![alt text](/images/p5shapes.gif)
 
 ##  Explore design boundaries (based on your expertise)
 
