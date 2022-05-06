@@ -15,8 +15,9 @@ Keeping this in mind, our idea was to explore new means of interaction culture. 
 The purpose of the meme pad is to press the keycaps, that have meme symbols, where a corresponding meme will be printed in the user interface. Each button should print a different meme. 
 There should be one meme shown at a time, and when a button is pressed the previous output should be erased.
 ![alt text](/images/6.jpg)
-![alt text](/images/7.jpeg)
 ![alt text](/images/t.jpeg)
+![alt text](/images/7.jpeg)
+
 
 ## Shown how your team planned and executed the project
 ![alt text](/images/plan.JPG)
