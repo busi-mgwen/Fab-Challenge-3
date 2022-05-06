@@ -1,12 +1,12 @@
 # Fab-Challenge-3 Meme Pad
-![alt text](/Images/meme.jpg)
+![alt text](/images/meme.jpg)
 
 ##  Explain how it is linked to your research areas
 THe goal of the third  Fabrication challenge was to make an ethical tool that allows us to interact with others. In terms of our research ideas and interests Busisiwe is interested in topics of AR, VR and alternative media,Accessibility in interactive technologies, intersections between human made and AI made artistic expressions in the virtual and also connections between the digital and physical landscapes. Andrea’s area of interests and research lies in material culture, trash landscapes, ethics behind the machine and tech, interface technologies and narratives behind the objects we use. In this we thought, how can we “hack” everyday objects, and modify them into props that question the current computer and mobile applications we used that are made by big tech. We aimed to explore how we can use protocols instead of services, calling to agency, and awareness to our current interfaces and ways of communicating.
 
 ## Initial idea / Concept of the Project ( What questions need to be answered?)
 Our current ecosystems and networks of communication are mostly hosted on the services of big tech companies, where they use the patterns and habits online for their own interests and profits. At the same time, content making culture of the web2.0, has ushered in a new internet presence and culture where non-text communication is used and micro subgenres and aesthetics.  such as meme culture and emojis.
-![alt text](/Images/r.jpg)
+![alt text](/images/r.jpg)
 Keeping this in mind, our idea was to explore new means of interaction culture. Revisit nostalgic internet imagaries and appropriating them into a new interface, where the keypad artefact is used a tool for storytelling and expression within the imbedded meanings of meme culture. Our inspirations are from everyday objects, the nostalgic vaporwave movement, discord chatrooms and the beginnings of communication in web 1.0 - the birth era of ASCII Art.
 
 
