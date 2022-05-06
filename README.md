@@ -11,11 +11,11 @@ Keeping this in mind, our idea was to explore new means of interaction culture. 
 
 
 ## Propose (What is supposed to do or not to do)
-![alt text](/tk/.gif)
+![alt text](/images/tk.gif)
 The purpose of the meme pad is to press the keycaps, that have meme symbols, where a corresponding meme will be printed in the user interface. Each button should print a different meme. 
 There should be one meme shown at a time, and when a button is pressed the previous output should be erased.
 ![alt text](/images/6.jpg)
-![alt text](/images/7.jpg)
+![alt text](/images/7.jpeg)
 ![alt text](/images/t.jpeg)
 
 ## Shown how your team planned and executed the project
@@ -35,7 +35,7 @@ Our interpretation in making honest design decisions, was at first, using obsole
 1. Gelatine powder 
 2. Glycerin Soap
 3. Wanted to “hack” keyboard instead of a keypad 
-![alt text](/images/b.jpg)
+![alt text](/images/b.jpeg)
 ![alt text](/images/1.jpg)
 
 ##  Creative Technologies used:
